@@ -1,2 +1,3 @@
-# asal-say-
-asal sayı bulma
+negatif sayıyla sonlanan toplama işlemi
+toplama
+
